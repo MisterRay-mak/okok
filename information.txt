@@ -1,0 +1,92 @@
+---------------------------------------- 
+--------------Votre Commande------------ 
+Nom: la
+Prenom: ra
+Mode de payement: CB
+---------------------------------------- 
+Votre entree est un: Carpaccio de boeuf fraichement tranche
+Votre plat est un(e): Escalope Florentina
+Votre dessert est un(e): Cafe gourmand
+
+Prix total: 28.5€
+Commande passer le: Fri Oct 07 09:55:38 2022
+
+---------------------------------------- 
+--------------Votre Commande------------ 
+Nom: la
+Prenom: ra
+Mode de payement: Espace
+---------------------------------------- 
+Votre entree est un: Bouchee a la reine
+Votre plat est un(e): Escalope Florentina
+Votre dessert est un(e): Moelleux au chocolat
+
+Prix total: 28.5€
+Commande passer le: Fri Oct 07 10:49:24 2022
+
+---------------------------------------- 
+--------------Votre Commande------------ 
+Nom: la
+Prenom: ra
+Mode de payement: CB
+---------------------------------------- 
+Votre entree est un: Carpaccio de boeuf fraichement tranche
+Votre plat est un(e): Pizza Diavolata
+Votre dessert est un(e): Tiramisu
+
+Prix total: 24.5€
+Commande passer le: Fri Oct 07 10:50:06 2022
+
+---------------------------------------- 
+--------------Votre Commande------------ 
+Nom: la
+Prenom: ra
+Mode de payement: CB
+---------------------------------------- 
+Votre entree est un: Carpaccio de boeuf fraichement tranche
+Votre plat est un(e): Escalope Florentina
+Votre dessert est un(e): Cafe gourmand
+
+Prix total: 28.5€
+Commande passer le: Fri Oct 07 10:53:35 2022
+
+---------------------------------------- 
+--------------Votre Commande------------ 
+Nom: Onder
+Prenom: Burak
+Mode de payement: CB
+---------------------------------------- 
+Votre entree est un: Carpaccio de boeuf fraichement tranche
+Votre plat est un(e): Pates Pesto
+Votre plat a pour pates: Spaghetti
+Votre dessert est un(e): Demi-bouteille d’eau
+
+Prix total: 21.5€
+Commande passer le: Fri Oct 07 11:07:20 2022
+
+---------------------------------------- 
+--------------Votre Commande est :------------ 
+Nom: Mahmoud
+Prenom: Zuuu
+Mode de payement: CB
+---------------------------------------- 
+Votre entree est un: Carpaccio de boeuf fraichement tranche
+Votre plat est un(e): Escalope Florentina
+Votre dessert est un(e): Moelleux au chocolat
+
+Prix total: 28.5€
+Commande passer le: Fri Oct 07 11:23:36 2022
+
+---------------------------------------- 
+--------------Votre Commande est :------------ 
+Nom: tuyaux
+Prenom: lart
+Mode de payement: CB
+---------------------------------------- 
+Votre entree est un: Bouchee a la reine
+Votre plat est un(e): Pizza Diavolata
+Votre dessert est un(e): Bouteille d’eau
+
+Prix total: 24.4€
+Commande passer le: Fri Oct 07 11:24:01 2022
+
